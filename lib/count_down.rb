@@ -1,6 +1,6 @@
 # Write your code here
-count = 10 
-while count.between?(1,10) do 
+count = 10
+while count.between?(1,10) do
   puts "#{count}"
   count = count - 1
 end
